@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <text x="200" y="30" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="#2c3e50">流程图示例</text>
+  
+  <rect x="30" y="60" width="100" height="50" rx="5" fill="#3498db"/>
+  <text x="80" y="90" font-family="Arial" font-size="12" text-anchor="middle" fill="white">输入数据</text>
+  
+  <rect x="150" y="60" width="100" height="50" rx="5" fill="#2ecc71"/>
+  <text x="200" y="90" font-family="Arial" font-size="12" text-anchor="middle" fill="white">处理数据</text>
+  
+  <rect x="270" y="60" width="100" height="50" rx="5" fill="#e74c3c"/>
+  <text x="320" y="90" font-family="Arial" font-size="12" text-anchor="middle" fill="white">输出结果</text>
+  
+  <text x="200" y="150" font-family="Arial" font-size="14" font-weight="bold" text-anchor="middle" fill="#2c3e50">关键指标</text>
+  
+  <rect x="30" y="170" width="340" height="100" rx="5" fill="white" stroke="#ddd"/>
+  
+  <circle cx="60" cy="200" r="5" fill="#3498db"/>
+  <text x="80" y="205" font-family="Arial" font-size="11" fill="#2c3e50">速度: 1000条/秒</text>
+  
+  <circle cx="60" cy="230" r="5" fill="#2ecc71"/>
+  <text x="80" y="235" font-family="Arial" font-size="11" fill="#2c3e50">准确率: 99.5%</text>
+  
+  <rect x="250" y="185" width="20" height="40" fill="#3498db"/>
+  <rect x="280" y="195" width="20" height="30" fill="#2ecc71"/>
+  <rect x="310" y="200" width="20" height="25" fill="#f39c12"/>
+  
+  <text x="200" y="285" font-family="Arial" font-size="9" text-anchor="middle" fill="#95a5a6">示例图片</text>
+</svg>
